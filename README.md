@@ -9,8 +9,6 @@ Languages: C, Java, Python
 Projects: IoT projects, Arduino and ESP-based solutions, home automation
 Specialties: Coding, electronics, network supervision, and automation systems
 Tools & Technologies: Arduino, ESP8266, RFID, and more
-
-
 🛠️ Recent Projects:
 
 Arduino-based RFID Attendance System – Developed a secure and automated system for tracking attendance.
