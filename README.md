@@ -1,4 +1,4 @@
-# 🚀 **Rishal — Developer | Systems Explorer | Tech Enthusiast**
+#  **Hi there, I am Rishal — Developer | Systems Explorer | Tech Enthusiast**
 
 Hi! I'm **Rishal**, a passionate **Computer Science Engineering student** from *Government College of Engineering Kannur*.  
 I enjoy building things, breaking things, and understanding how everything works under the hood — from **low-level assembly** to **Windows automations**, **DIY hardware projects**, and **full-stack development**.
