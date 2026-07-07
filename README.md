@@ -15,7 +15,7 @@ I love debugging, experimenting, reverse-engineering, and solving real technical
 # ⚡ **About Me**
 
 ### 🎓 **Who I Am**
-- 💻 3rd Year **CSE student**  
+- 💻 4th Year **CSE student**  
 - 🔍 Passionate about **systems, networking, OS**, and **low-level internals**  
 - 🛠️ Loves **DIY electronics**, USB power experiments & circuit fixes  
 - 🧠 Enjoys solving tricky bugs  
