@@ -67,8 +67,8 @@ My background bridges hardware intuition and low-level software engineering: fro
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/rishalsha/hopr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=hopr&theme=tokyonight&hide_border=true" alt="hopr" />
+  <a href="https://github.com/rishalsha/IPadDock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=IPadDock&theme=tokyonight&hide_border=true" alt="IPadDock" />
   </a>
   <a href="https://github.com/rishalsha/Habitat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=Habitat&theme=tokyonight&hide_border=true" alt="Habitat" />
