@@ -23,11 +23,40 @@ I am a final-year **Computer Science Engineering student** at *Government Colleg
 
 I love understanding how machines work under the hood — from CPU instruction pipelines, memory models, and Linux operating system internals to fast developer tooling in **Rust**, home automation, and hardware prototyping.
 
-- 🦀 **Systems & Tooling:** Passionate about building fast, reliable command-line and terminal user interfaces (TUI) using **Rust** and **C/C++**.
+- 🦀 **Systems & Tooling:** Passionate about building fast, reliable command-line and terminal user interfaces (TUI) using **Rust**, **Go**, and **C/C++**.
 - 🐧 **Linux & OS Internals:** Power user running Arch Linux + Hyprland; deep interest in OS scheduling algorithms, memory virtualization, and system-level APIs.
 - ⚡ **Workflow & Automation:** Obsessed with terminal ergonomics, Neovim workflows, custom keybindings, and automated developer utilities.
 - 🔌 **Hardware Hacking & IoT:** Hands-on experiments with custom electronics, USB power negotiation, Raspberry Pi, Arduino, and Home Assistant.
 - 💬 **Ask me about:** Rust, OS internals, Arch Linux customization, Neovim, and hardware DIY.
+
+---
+
+### 📌 Popular Repositories
+
+<p align="center">
+  <a href="https://github.com/rishalsha/qmit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=qmit&theme=tokyonight&hide_border=true" alt="qmit" />
+  </a>
+  <a href="https://github.com/rishalsha/GitHubCLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=GitHubCLI&theme=tokyonight&hide_border=true" alt="GitHubCLI" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rishalsha/SpeedTest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=SpeedTest&theme=tokyonight&hide_border=true" alt="SpeedTest" />
+  </a>
+  <a href="https://github.com/rishalsha/GPT-CLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=GPT-CLI&theme=tokyonight&hide_border=true" alt="GPT-CLI" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rishalsha/hopr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=hopr&theme=tokyonight&hide_border=true" alt="hopr" />
+  </a>
+  <a href="https://github.com/rishalsha/Habitat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishalsha&repo=Habitat&theme=tokyonight&hide_border=true" alt="Habitat" />
+  </a>
+</p>
 
 ---
 
@@ -37,6 +66,8 @@ I love understanding how machines work under the hood — from CPU instruction p
 | :--- | :--- | :--- |
 | **[qmit](https://github.com/rishalsha/qmit)** | Blazing-fast, AI-powered CLI that analyzes git diffs and crafts standard Conventional Commit messages with an interactive review loop. | `Rust` `LLMs` `Git` `CLI` |
 | **[GitHubCLI (ghcli)](https://github.com/rishalsha/GitHubCLI)** | Terminal-based User Interface (TUI) to explore, search, clone, create, and manage GitHub repositories directly inside the terminal. | `Rust` `Ratatui` `TUI` |
+| **[SpeedTest](https://github.com/rishalsha/SpeedTest)** | High-performance network speed benchmark & latency monitor supporting live braille throughput graphs and headless scripting. | `Rust` `Ratatui` `Tokio` `CLI` |
+| **[GPT-CLI](https://github.com/rishalsha/GPT-CLI)** | Feature-packed AI terminal assistant written in Go with real-time streaming, interactive chat, Unix pipe support, and multi-provider presets. | `Go` `Glamour` `AI/LLMs` `CLI` |
 | **[hopr](https://github.com/rishalsha/hopr)** | Lightning-fast, frecency-based file hopper for Neovim inspired by zoxide, featuring sequential matching and microsecond binary persistence. | `Rust` `Neovim` `CLI` |
 | **[Habitat](https://github.com/rishalsha/Habitat)** | Smart control application and automation engine for managing home IoT sensors, device states, and automated routines. | `C++` `IoT` `Home Assistant` |
 | **[WeCode](https://github.com/rishalsha/WeCode)** | Interactive coding contest platform for participants to run, test, and evaluate solutions in real time. | `TypeScript` `React` `Node.js` |
